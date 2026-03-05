@@ -18,7 +18,7 @@
 * 📻 **MFRC522**: Handles the complex SPI communication required to read UID data from the RFID cards.  
 * 🌐 **HTTPClient & WiFi**: Core ESP32 libraries used to manage the wireless network connection and execute HTTP POST/GET requests.
 
-## **⚙️ Hardware Components: The "What" and "Why"**
+## **⚙️ Hardware Components:
 
 **1\. 🧠 Microcontroller: ESP32-S3 Development Board**
 
